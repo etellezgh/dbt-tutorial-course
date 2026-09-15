@@ -1,0 +1,8 @@
+{
+    "dbt.allowListFolders": [
+	"answers",
+	"lessons"
+	],
+	"dbt.dbtIntegration": "core",
+	"dbt.dbtPythonPathOverride": "C:\\Users\\ernes\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+}
